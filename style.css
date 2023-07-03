@@ -106,10 +106,10 @@ h1 {
 .grup {
   text-align: center;
   max-width: 264px;
-  height: 56px;  
+  height: 56px;
 }
 
-h2 {  
+h2 {
   font-weight: 700;
   font-size: 24px;
   line-height: 29px;
@@ -127,17 +127,15 @@ h2 {
   opacity: 0.75;
 }
 
-
 @media only screen and (min-width: 600px) {
-  
-  main {    
+  main {
     display: flex;
     /* justify-content: center; */
     align-items: center;
     width: 1440px;
     height: 800px;
   }
-  
+
   .container-card {
     display: flex;
     flex-direction: row-reverse;
@@ -156,47 +154,45 @@ h2 {
   img {
     border-radius: 0px 8px 8px 0;
   }
-  
+
   .all-text {
-    margin: 70px 0 0 70px;    
+    margin: 70px 0 0 70px;
   }
 
-  
   .head-text {
     text-align: left;
     max-width: 403px;
     height: 88px;
   }
-  
+
   h1 {
-  font-size: 36px;
-  line-height: 44px;
-}  
+    font-size: 36px;
+    line-height: 44px;
+  }
 
-.text-info {
-  text-align: left;
-  max-width: 374px;
-  height: 75px;
+  .text-info {
+    text-align: left;
+    max-width: 374px;
+    height: 75px;
+  }
+
+  .text-stat {
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 350px;
+    margin-top: 40px;
+  }
+
+  .grup {
+    text-align: left;
+    height: 56px;
+  }
+
+  .attribution {
+    text-align: center;
+  }
 }
 
-.text-stat {  
-  flex-direction: row;
-  justify-content: space-between;  
-  max-width: 350px;
-  margin-top: 40px;
-}
-
-.grup {
-  text-align: left;
-  height: 56px;
-}
-
-.attribution {  
-  text-align: center;
-}
-}
-
-/* ----------------------- */
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -204,15 +200,3 @@ h2 {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
-/* ----------------------------------------
-
-
-
-
-
-
-
-
-
-

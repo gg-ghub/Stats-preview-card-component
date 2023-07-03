@@ -16,15 +16,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
+This page has been prepared as mobilfirst, in accordance with the mobile (375px) and desktop (1440px) dimensions requested from us in the conditions.
 
 ### Screenshot
 
@@ -33,10 +27,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/gokhan-guneri/Stats-preview-card-component)
+- Live Site URL: [Add live site URL here](https://stats-preview-card-component-frontend.netlify.app/)
 
 ## My process
+
+I wrote the raw codes with html and completed my style file with the css flexbox structure.
 
 ### Built with
 
@@ -44,8 +40,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
